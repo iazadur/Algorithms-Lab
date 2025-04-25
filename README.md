@@ -98,7 +98,7 @@ For more information on algorithms and data structures, check out these resource
 
 ## Contributors
 
-- [Your Name]
+- [Md Azadur Rahman](https://azadur.com.bd)
 
 ## License
 
